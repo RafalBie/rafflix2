@@ -7,8 +7,8 @@ function App() {
   return (
     <div className="App">
       <h1> Hey Programers</h1>
-    <Row title="REMFLIX ORIGINALS"  />
-			<Row title="Trending"  />
+    <Row title=""  />
+			<Row title=""  />
 		
     </div>
   );
